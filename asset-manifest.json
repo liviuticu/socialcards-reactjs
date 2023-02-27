@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/socialcards-reactjs/static/css/main.0470f8eb.css",
+    "main.js": "/socialcards-reactjs/static/js/main.c217ede2.js",
+    "index.html": "/socialcards-reactjs/index.html",
+    "main.0470f8eb.css.map": "/socialcards-reactjs/static/css/main.0470f8eb.css.map",
+    "main.c217ede2.js.map": "/socialcards-reactjs/static/js/main.c217ede2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0470f8eb.css",
+    "static/js/main.c217ede2.js"
+  ]
+}
